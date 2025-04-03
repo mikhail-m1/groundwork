@@ -23,7 +23,7 @@ To begin, add next dependencies to your `Cargo.toml` file:
 groundwork = "0.1"
 alloc-metrics = "0.1"
 ```
-And copy the necessary lines from the [hello_world example](https://github.com/mikhail-m1/groundwork/blob/examples/hello_world.rs).
+And copy the necessary lines from the [hello_world example](https://github.com/mikhail-m1/groundwork/blob/main/examples/hello_world.rs).
 
 ## Screenshots
 
